@@ -8,6 +8,9 @@ elif 999 < num < 9999:
     print ("This is a Four Digit Number")
 else:
     print("Number is <= 9 or >= 9999")
+elif 9999< num <99999:
+    print("Number is <= 9 or >= 99999")
+
 
 
 
